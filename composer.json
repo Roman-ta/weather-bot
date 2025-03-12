@@ -1,0 +1,17 @@
+{
+    "name": "roman_ta/whether-bot",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "RomanTa\\WhetherBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roman ta"
+        }
+    ],
+    "require": {
+        "longman/telegram-bot": "^0.83.1"
+    }
+}
